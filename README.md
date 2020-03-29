@@ -11,3 +11,4 @@ The way to run this c file is the same way to be able to run the orignal ed code
      I want to feel love, run through my blood
 
 PS. After hours of trying and messing around with the main function. I coulnt figure out how to make into the format requested.
+UPDATE: After the past days of trying and the code supplied by McCarthy today, I wasn't able to get the interface of grep.
